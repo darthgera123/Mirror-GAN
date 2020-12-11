@@ -7,7 +7,7 @@ Mirror GAN implementation to perform text to image task. [Paper](https://arxiv.o
 ![](images/framework.jpg) 
 
 ## Installation
-+`pytorch >1.0.0`
++ `pytorch >1.0.0`
 + `nltk`
 + `easydict`
 + `pandas`
